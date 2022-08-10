@@ -244,14 +244,14 @@ h1{
 
  }
 .skill1{
-   width: 60%;
+   width: 50%;
    float: left;
-   margin-right: 20px;
+   margin-right: 5px;
    }
 .skill2{
-    width: 60%;
+    width: 50%;
     float:right;
-    margin-left: 20px;
+    margin-left: 5px;
   }
 .skills h2{
 
